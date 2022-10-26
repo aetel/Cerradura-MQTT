@@ -12,8 +12,8 @@
   
     // Redes WiFi guardadas para la conexion del ESP8266
     
-    const char* ssid ="AETEL";
-    const char* password = "nosetioalgoquemole";
+    const char* ssid ="";
+    const char* password = "";
     
     /* Cabeceras de las funciones */
     
